@@ -8,8 +8,8 @@ A structured collection of SQL exercise solutions based on the interactive lesso
 
 | # | Lesson | Topic |
 |---|--------|-------|
-| 01 | [SELECT queries 101](Question1.md) | Selecting columns from a table |
-| 02 | [Queries with constraints (Pt. 1)](Question2.md) | Filtering rows with WHERE and numerical operators |
+| 01 | [SELECT queries 101](Lesson1.md) | Selecting columns from a table |
+| 02 | [Queries with constraints (Pt. 1)](Lesson2.md) | Filtering rows with WHERE and numerical operators |
 
 ---
 
